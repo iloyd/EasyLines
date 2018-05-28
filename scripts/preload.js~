@@ -4,7 +4,7 @@ linesApp.Preload.prototype = {
 	preload: function () {
 		this.load.image('PlayMenu', 'images/PlayMenu.png');
 		this.load.image('Ball', 'images/Ball.png');
-		this.load.image('Target', 'images/target.png');
+		this.load.image('Target', 'images/spiral.png');
 		this.load.image('LineTxtr', 'images/linetexture.png');
 		this.load.image('Back_to_menu', 'images/back_to_menu.png');
 		

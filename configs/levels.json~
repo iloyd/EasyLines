@@ -3,8 +3,8 @@
 		{
 		"title": "First Step",
 		"maxspeed": 300,
-		"timelimit": 999,
-		"lineslimit": 999,
+		"timelimit": -1,
+		"lineslimit": -1,
 		"ball":
 				{
 					"x": 0.5,
